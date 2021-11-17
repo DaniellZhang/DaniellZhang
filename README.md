@@ -1,6 +1,6 @@
 > Any science or technology which is sufficiently advanced is indistinguishable from magic. — Arthur C. Clarke
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> 
-<img src="https://github-readme-stats.vercel.app/api?username=danielzhangau&show_icons=true" alt="Bosheng Zhang's GitHub Stats" height="300" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=danielzhangau&show_icons=true" alt="Bosheng Zhang's GitHub Stats" height="250" width="400" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## 🤿 About Me
 🎓 I am Bosheng Zhang, a **Machine Learning Engineer** (specializing in **Computer Vision**) pursuing my Bachelors in **Computer Science** at The University of Queensland.  📫 I enjoy learning from and contributing to **Open Source Projects** and am really enthusiatic about learning new technology.  

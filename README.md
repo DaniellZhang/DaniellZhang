@@ -6,6 +6,7 @@
 - ⚡ Familiar with Python, Java, HTML, CSS, JavaScript, and C language.
 - 🔭 Computer Vision (检测/分割/抠图/识别/目标跟踪)
 - ❤  Frameworks: PyTorch, TF
+> Any science or technology which is sufficiently advanced is indistinguishable from magic. — Arthur C. Clarke
 -->
 
 <!----- 

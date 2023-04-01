@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=danielzhangau&show_icons=true" alt="Bosheng Zhang's GitHub Stats" height="300" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## About Me
-I am Bosheng Zhang, a **Machine Learning Engineer** (specializing in **Computer Vision**), pursued my Bachelors in **Computer Science** at The University of Queensland.  
+I am Bosheng (Daniel) Zhang, a **Machine Learning Engineer** (specializing in **Computer Vision**), pursued my Bachelors in **Computer Science** at The University of Queensland.  
 📫 I enjoy learning from and contributing to **Open Source Projects** and am really enthusiatic about learning new technology.  
 
 ## 🛠️ Skills

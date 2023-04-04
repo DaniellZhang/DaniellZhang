@@ -1,14 +1,18 @@
 > Any science or technology which is sufficiently advanced is indistinguishable from magic. — Arthur C. Clarke
+
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> 
-<img src="https://github-readme-stats.vercel.app/api?username=danielzhangau&show_icons=true" alt="Bosheng Zhang's GitHub Stats" height="300" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />  
 
 ## About Me
 I am Bosheng (Daniel) Zhang, a **Machine Learning Engineer** (specializing in **Computer Vision**), pursued my Bachelors in **Computer Science** at The University of Queensland.  
 📫 I enjoy learning from and contributing to **Open Source Projects** and am really enthusiatic about learning new technology.  
 
+🔗 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boshengzhangau/)
+[![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danielzhangau.github.io/)
+
 ## 🛠️ Skills
+
 ### Computer Vision
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzhangau" alt="Bosheng Zhang's GitHub Stats" height="300" width="350" align="right" style="margin: 5px; margin-bottom: 0px;" /> 
 
 ### Languages 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 

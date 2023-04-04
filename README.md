@@ -17,12 +17,10 @@ I am Bosheng (Daniel) Zhang, a **Machine Learning Engineer** (specializing in **
 ![adobe-premiere](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15)
 
 ## 📈 GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=danielzhangau" alt="Bosheng Zhang's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=danielzhangau&show_icons=true" alt="Bosheng Zhang's GitHub Stats" /></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielzhangau&show_icons=true" alt="Bosheng Zhang's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielzhangau" alt="Bosheng Zhang's GitHub Stats" width="51%" />
+</div>
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boshengzhangau/)
